@@ -1,8 +1,15 @@
 body {
-    background-color:black;
+    background-color:grey;
     border: red dotted 3px;
 }
 
+header {
+    background-color: white;
+     
+}
+#headerh1 {
+    positon:center;
+}
 .wholepost {
     height: 700px;
     width: 450px;
@@ -16,8 +23,8 @@ body {
 
 }
 #postpicture {
-width:50px;
-height:50px;
+width:100%
+height:100%
 }
 
 #posttext {
