@@ -17,12 +17,15 @@ header {
 }
 
 #wholepost {
-    height: 700px;
-    width: 450px;
+    height: 100%;
+    width: 500px; 
     margin: auto;
     background-color: white;
     margin-top: 5%;
-    padding: 0;
+    padding: 10px;
+    border:green dodded 3px;
+    margin:auto;
+   
 
 }
 
