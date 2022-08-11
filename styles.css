@@ -43,5 +43,7 @@ img {
 
 .right {
     float: right;
+    padding-left:300px;
+    padding-top:10px;
     
 }
