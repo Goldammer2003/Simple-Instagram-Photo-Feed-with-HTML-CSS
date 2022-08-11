@@ -30,17 +30,23 @@ header {
 }
 img {
     width:500px;
+    
 }
 
 .postheader {
    display:flex;
    background-color:white;
+   padding-bottom: 0px;
+   
 }
 
 
 .posttext {
     width: 100%;
     background-color:white;
+    padding-top:0px;
+    margin-top:-28px;
+    
 }
 
 .right {
