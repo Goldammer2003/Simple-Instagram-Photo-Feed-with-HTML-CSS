@@ -37,6 +37,7 @@ img {
 }
 
 .postheader {
+    height:80px;
    display:flex;
    background-color:white;
    padding-bottom: 0px;
@@ -60,3 +61,18 @@ img {
     padding-top:10px;
     
 }
+
+#dateoffirstpost {
+    float:right;
+    padding-left:290px;
+    padding-top:10px;
+}
+
+#dateofthirdpost {
+    float:right;
+    padding-left:215px;
+    line-height:55px;
+   
+
+}
+
