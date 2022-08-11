@@ -13,7 +13,7 @@ header {
 }
 
 #headerh1 {
-    positon: center;
+   padding-left:30%;
 }
 
 #wholepost {
@@ -32,7 +32,9 @@ img {
     width:500px;
 }
 
-.postheader {}
+.postheader {
+   display:flex;
+}
 
 
 .posttext {
@@ -41,4 +43,5 @@ img {
 
 .right {
     float: right;
+    
 }
