@@ -18,7 +18,7 @@ header {
 
 #wholepost {
     height: 100%;
-    width: 500px; 
+    width: 510px; 
     margin: auto;
     background-color: grey;
     margin-top: 5%;
@@ -29,7 +29,7 @@ header {
 
 }
 img {
-    width:500px;
+    width:510px;
     
 }
 
@@ -46,12 +46,13 @@ img {
     background-color:white;
     padding-top:0px;
     margin-top:-28px;
+    margin-bottom: 45px;
     
 }
 
 .right {
     float: right;
-    padding-left:300px;
+    padding-left:295px;
     padding-top:10px;
     
 }
