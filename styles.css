@@ -41,35 +41,39 @@ img {
    background-color:white;
    padding-bottom: 0px;
    white-space: nowrap;
+   padding-left:10px;
+   padding-right:10px;
    
 }
 
 
 .posttext {
-    width: 100%;
+    width: 490px;
     background-color:white;
     padding-top:10px;
     margin-top:-28px;
     margin-bottom: 45px;
+    padding-left:10px;
+    padding-right:10px;
     
 }
 
 .right {
     float: right;
-    padding-left:280px;
+    padding-left:265px;
     padding-top:10px;
     
 }
 
 #dateoffirstpost {
     float:right;
-    padding-left:290px;
+    padding-left:280px;
     padding-top:10px;
 }
 
 #dateofthirdpost {
     float:right;
-    padding-left:215px;
+    padding-left:205px;
     line-height:55px;
    
 
